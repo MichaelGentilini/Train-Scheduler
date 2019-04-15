@@ -1,8 +1,27 @@
-.jumbotron {
-  background: grey;
+h1 {
+  font: white;
+  font-weight: 800;
+}
 
+.main {
+  background: blue;
 }
 
 .title {
   color: white;
+}
+
+.card-title {
+  background: lightblue;
+  color: white;
+}
+
+.clock,
+.date {
+  margin: auto;
+  color: white;
+  font-size: 45px;
+  font-weight: 600;
+  letter-spacing: 10px;
+  text-align: center;
 }
